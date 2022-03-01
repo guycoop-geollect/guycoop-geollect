@@ -1,6 +1,6 @@
 Guy Coop 
 
-email: guycoop@geollect.com
+Email: guycoop@geollect.com
 
 <!---
 guycoop-geollect/guycoop-geollect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
